@@ -43,7 +43,7 @@
 ### Boolean Equation
 
 $$
-Y = ?
+Y = AD' + A'D
 $$
 
 ### Digital Simulations
