@@ -11,7 +11,7 @@
 --| ---------------------------------------------------------------------------
 --|
 --| FILENAME      : thirtyOneDayMonth.vhd
---| AUTHOR(S)     : Capt Dan Johnson, ***Your Name Here***
+--| AUTHOR(S)     : Capt Dan Johnson, Cullen Chaney
 --| CREATED       : 12/12/2019 Last Modified 06/24/2020
 --| DESCRIPTION   :  This file implements the thirtyOneDaMonth lab.  Using a 4
 --| switch input, the circuit will light up whenever the 4 switches represent a
@@ -55,7 +55,7 @@ library ieee;
 -- entity name should match filename, this has been filled out for you  
 entity thirtyOneDayMonth is 
   port(
-	i_A : in std_logic; -- one of four inputs
+	i_A : in std_logic -- one of four inputs
 	
 	
 	
